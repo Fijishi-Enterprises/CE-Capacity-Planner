@@ -1,10 +1,4 @@
-![CapacityExpansion logo](docs/src/assets/cep_text.svg)
-===
-[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://YoungFaithful.github.io/CapacityExpansion.jl/stable)
-[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://YoungFaithful.github.io/CapacityExpansion.jl/dev)
-[![Build Status](https://travis-ci.com/YoungFaithful/CapacityExpansion.jl.svg?branch=master)](https://travis-ci.com/YoungFaithful/CapacityExpansion.jl)
-[![DOI](https://zenodo.org/badge/178281868.svg)](https://zenodo.org/badge/latestdoi/178281868)
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.02034/status.svg)](https://doi.org/10.21105/joss.02034)
+## Capacity Expansion
 
 [CapacityExpansion](https://github.com/YoungFaithful/CapacityExpansion.jl) is a [julia](https://julialang.org/) implementation of an input-data-scaling capacity expansion modeling framework.
 
@@ -95,20 +89,3 @@ planning models` by Merrick 2016](http://dx.doi.org/10.1016/j.eneco.2016.08.001)
 - [Documentation of the development version](https://YoungFaithful.github.io/CapacityExpansion.jl/dev)
 - [Contributing guidelines](https://github.com/YoungFaithful/CapacityExpansion.jl/blob/master/CONTRIBUTING.md)
 - [CapacityExpansion: A capacity expansion modeling framework in Julia](https://doi.org/10.21105/joss.02034)
-
-## Citing CapacityExpansion
-If you find CapacityExpansion usefuel in your work, we kindly request that you cite the following [paper](https://doi.org/10.21105/joss.02034)
-```
-@article{Kuepper2020,
-  doi = {10.21105/joss.02034},
-  url = {https://doi.org/10.21105/joss.02034},
-  year = {2020},
-  publisher = {The Open Journal},
-  volume = {5},
-  number = {52},
-  pages = {2034},
-  author = {Lucas Elias Kuepper and Holger Teichgraeber and Adam R. Brandt},
-  title = {CapacityExpansion: A capacity expansion modeling framework in Julia},
-  journal = {Journal of Open Source Software}
-}
-```
